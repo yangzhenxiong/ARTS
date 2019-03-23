@@ -53,7 +53,8 @@ class Solution {
 ```
 ## Review
 ### [“What Is Readable Code?” by Janeen Neri](https://link.medium.com/onaP1C6y9U)
-
+### 读这篇文章的感触主要有一下几点
+1.
 ## Tip/Techni
 ### 使用代理实现公司内网服务器搭建docker
 1. 使用Xshell配置远程代理
