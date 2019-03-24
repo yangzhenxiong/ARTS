@@ -53,8 +53,11 @@ class Solution {
 ```
 ## Review
 ### [“What Is Readable Code?” by Janeen Neri](https://link.medium.com/onaP1C6y9U)
-### 读这篇文章的感触主要有一下几点
-1.
+### 这篇文章有几个观点比较赞同，但没有很好的阐述如何做到这几点：
+1. Code creates interfaces. But the code itself is also an interface.
+2. Readable code should be easy to edit safely.
+3. The less we have to understand, the safer our actions will be.
+4. In short, readable code must be usable. And maybe, as a side effect, it’ll look pretty too.
 ## Tip/Techni
 ### 使用代理实现公司内网服务器搭建docker
 1. 使用Xshell配置远程代理
